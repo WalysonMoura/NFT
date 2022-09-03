@@ -37,7 +37,7 @@ export default function Home() {
           <div className="cicle1"></div>
           <div className="cicle2"></div>
           <div className="cicle3"></div>
-          <img className="fundoImg" src="/bg.png" alt="" />
+          
           <Fade top delay={1000} cascade>
             <section className="text">
               <h1>
